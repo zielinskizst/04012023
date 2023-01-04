@@ -5,7 +5,9 @@
 </head>
 <body>
 	<br><center>
-		<h1>Dodaj ucznia</h1>
+	<h1>4 stycznia 2023</h1>
+	<h1>Dodaj ucznia</h1>
+		
 		<form method="post">
 			<input type="text" name="posted" hidden="true">
 			Wprowadź imie delikwenta <input type="text" name="imie">
